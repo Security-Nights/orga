@@ -17,6 +17,10 @@
     - permissions
 - [ ] transfer Slack account
 - [ ] former email address: infosec.meetup.berlin@gmail.com (?)
+- [ ] Berlin COC:
+    - read by all organizers
+    - blacklist for banned participants
+    - mention (Git pull request)
 
 ## Announcement
 

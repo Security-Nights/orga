@@ -8,6 +8,8 @@
 4. balance innovation with foundation
 5. dare, perform and have fun
 
+We support the [Berlin Code of Conduct](https://berlincodeofconduct.org).
+
 ## General parameters
 
 - invitation

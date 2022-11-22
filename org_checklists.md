@@ -1,4 +1,4 @@
-# Organizing Security Nights
+# Security Nights Orga Checklists
 
 ## Administrative to-dos
 
@@ -18,31 +18,7 @@
 - [ ] transfer Slack account
 - [ ] former email address: infosec.meetup.berlin@gmail.com (?)
 
-## General parameters
-
-- invitation
-- time of appointment
-- location
-    - venue/online
-        - SysEleven
-        - c-base
-        - Frachtwerk's BBB
-    - capacity
-    - privacy
-- speakers
-    - appointment
-    - abstract
-- duration
-    - introduction
-    - talks
-    - Q&A
-    - networking
-- provisions
-    - catering
-    - bar
-- closing time
-
-## Checklist for the announcement
+## Announcement
 
 - [ ] preparation
     - agenda
@@ -59,34 +35,7 @@
     - recording link (?)
 - [ ] Twitter (@securitynights)
 
-## The moderator's agenda
-
-- welcome
-    - greeting
-    - about/retro
-    - motivation
-- tonight
-    - host (self)
-    - talk summary
-- rules
-    - recording (?)
-    - breaks
-    - questions
-- talks (mult.)
-    - introduction
-        - name
-        - job
-        - topic
-    - speaker
-    - Q&A
-- networking
-- closing
-    - like/questions?
-    - connect
-        - Slack
-        - email (?)
-
-## Checklist for events at a venue
+## Events at a venue
 
 - [ ] get briefed (by host)
 - [ ] prepare the room

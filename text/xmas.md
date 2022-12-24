@@ -8,4 +8,10 @@ This year a lot of change occurred, and we like to talk about it. We all have le
 While we missed our goal to arrange a night for December, we are confidence, that we managed to get
 something organized again!
 
-With this, we wish everyone a merry Christmas and a Happy new year! Stay healthy.
+With this, we wish everyone a merry Christmas and a  nice transition into the new year – may 2023 be
+full of new opportunities! Enjoy yourselves and take care.
+
+Happy new year! 
+
+Kind regards,
+Martin, Hendrik and Akendo

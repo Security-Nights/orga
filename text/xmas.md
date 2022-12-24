@@ -13,5 +13,5 @@ May your cybers be secure and your luck plentyful :-)
 
 All the best!
 
-Your (lexicographically ordered) Security Nights Owls
+Your (lexicographically ordered) Security Night Owls
 Akendo, Hendrik, Martin 

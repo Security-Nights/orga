@@ -1,17 +1,17 @@
 # new year wishes
 
-Hey everyone, we from the security night orgra like to have a small chat with you.
+What a year!
 
-This year a lot of change occurred, and we like to talk about it. We all have left a difficult year
- to passed behind, one that left very little time to spare to organize another security night.
+2022 has certainly been another year to remember (for better or for worse) - lots of changes, uncertainty, and lessons learned.
 
-While we missed our goal to arrange a night for December, we are confidence, that we managed to get
-something organized again!
+And it wasn't just the world at large that saw some changes - our Security Nights team had its fair share of shake-ups too.
+We are still working to establish new routines with the new setup and strive to get back to a more regular schedule for 2023 (pinky promise!).
 
-With this, we wish everyone a merry Christmas and a  nice transition into the new year – may 2023 be
-full of new opportunities! Enjoy yourselves and take care.
+Let's hope that 2023 is a little bit less... eventful (or at least, less eventful in the bad way). 
+With that said we wish you and your families a happy and healthy holiday season, and a great start for 2023. 
+May your cybers be secure and your luck plentyful :-)
 
-Happy new year! 
+All the best!
 
-Kind regards,
-Martin, Hendrik and Akendo
+Your (lexicographically ordered) Security Nights Owls
+Akendo, Hendrik, Martin 

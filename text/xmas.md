@@ -1,10 +1,9 @@
 # new year wishes
 
-Hey everyone, it's akendo, you may or may not know me, but I'm with the organization team.
+Hey everyone, we from the security night orgra like to have a small chat with you.
 
-Let's have a small chat. Because in this year a lot of change occurred, and we like to talk about
-it. We all have left a difficult year to passed behind, one that left very little time to spare to
-organize another security night.
+This year a lot of change occurred, and we like to talk about it. We all have left a difficult year
+ to passed behind, one that left very little time to spare to organize another security night.
 
 While we missed our goal to arrange a night for December, we are confidence, that we managed to get
 something organized again!

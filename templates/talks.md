@@ -6,23 +6,29 @@
    - name: ""
    - job: ""
    - talk:
-     - [ ] accepted
      - title: ""
      - abstract: ""
+   - state:
+     - comment: ""
+     - [ ] accepted
 
 2. speaker:
    - name: ""
    - job: ""
    - talk:
-     - [ ] accepted
      - title: ""
      - abstract: ""
+   - state:
+     - comment: ""
+     - [ ] accepted
 
 3. speaker:
    - name: ""
    - job: ""
    - talk:
-     - [ ] accepted
      - title: ""
      - abstract: ""
+   - state:
+     - comment: ""
+     - [ ] accepted
 

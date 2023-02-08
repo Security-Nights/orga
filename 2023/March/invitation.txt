@@ -8,6 +8,8 @@ TL;DR | Join the next Security Night on September 2nd from 7 pm CEST at c-base: 
 
 --> WHAT TO EXPECT
 
+### BEGIN INVITATION CONTENT ###
+
 First even in 2023. With some delay we're happy to 
 
 After months of silence, it is finally enough. We should talk about all the things happening around us. Let us meet again in-person and discuss! So we can get back to normal, hopefully...
@@ -15,6 +17,8 @@ After months of silence, it is finally enough. We should talk about all the thin
 This time, we have three great speakers on offer: Pierre about a nice tool he has developed, Lisa about her fresh Bachelor's thesis on pentesting and Akendo about the foundations of MitM with TLS. And Akendo has also joined our organization team -- welcome!
 
 A big thanks to SysEleven and especially to Kenny and Joseph for providing location, food and drinks for the night. Their space for talks is great and they hosted a series of really interesting tech meetups.
+
+### END INVITATION CONTENT ###
 
 --> THE TALKS
 

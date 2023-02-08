@@ -1,34 +1,31 @@
-# talks for 2023/March:
-- time: 2023-03-02 19:00 CET
-- space: c-base
+# talks metadata
 
-1. speaker:
-   - name: "Sven"
-   - job: ""
-   - talk:
-     - title: ""
-     - abstract: ""
-   - state:
-     - comment: "prueft Kalender und sagt ggf. ab"
-     - [x] accepted
+1:
+  name: "pspacecomplete"
+  job: "Security Architect at New Work"
+  talk:
+    title: "Something Something hashes"
+    abstract: ""
+  state:
+    comment: ""
+    accepted: true
 
-2. speaker:
-   - name: ""
-   - job: ""
-   - talk:
-     - title: ""
-     - abstract: ""
-   - state:
-     - comment: ""
-     - [ ] accepted
+2:
+  name: "Sven"
+  job: ""
+  talk:
+    title: "Soemthing Somethin Windows Server hacking"
+    abstract: ""
+  state:
+    comment: "prueft Kalender und sagt ggf. ab"
+    accepted: true
 
-3. speaker:
-   - name: "Hendrik Spiegel"
-   - job: "Security Architect at New Work"
-   - talk:
-     - title: "Something Something Hashing"
-     - abstract: ""
-   - state:
-     - comment: ""
-     - [x] accepted
-
+3:
+  name: "Neef"
+  job: ""
+  talk:
+    title: "Somethin Somethin SSHFP"
+    abstract: ""
+  state:
+    comment: ""
+    accepted: false

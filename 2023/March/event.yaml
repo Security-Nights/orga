@@ -1,0 +1,10 @@
+# event metadata
+
+time: "2023-03-02T19:00:00+01:00"
+duration: "120"
+topic: "[TOPIC]"
+meetup_url: "[MEETUP_URL]"
+space:
+  name: "c-base"
+  address: "Rungestr. 20, 10179 Berlin"
+  map_url: "https://openstreetmap.org/node/260050809"

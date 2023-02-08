@@ -1,8 +1,3 @@
-# invitation for 2023/March:
-- time: 2023-03-02 19:00 CET
-- space: c-base
-
-
 Dear Berlin Security Community,
 
 TL;DR | Join the next Security Night on September 2nd from 7 pm CEST at c-base:  Rungestraße 20 10179 Berlin. Three speakers are ready to share their talks with you:
@@ -81,4 +76,3 @@ PS: We are always looking for interesting talks and projects. If you have a talk
 @%%%   @:    #    %%%    .  #%   @@    ##@   .@@@%      %%%#%@@@@@@@@@@@@@@@%@%
 @%#@@@@%#%%%@#@@@@@@@@@@@@@@@@@@%@@@@@@@@@@%@@@@@%@@@%%@@%##@@@@@@@@@@*********
 @%%@@@#@@@@@@@@@@@@@@@@@@@%****%@@%@@@@@@@@%@@@@@%@@%*#%%%%%%%%@@@@@@@@@@@@@@@@
-

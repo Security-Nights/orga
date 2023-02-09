@@ -1,7 +1,10 @@
-First even in 2023. With some delay we're happy to 
+First even in 2023. With some delay, we're excited to announce the next Security Night. On the 2nd of March 2023. WE have a new location: c-base! 
 
-After months of silence, it is finally enough. We should talk about all the things happening around us. Let us meet again in-person and discuss! So we can get back to normal, hopefully...
+Please be aware of this and do not run blindly to the last place.
 
-This time, we have three great speakers on offer: Pierre about a nice tool he has developed, Lisa about her fresh Bachelor's thesis on pentesting and Akendo about the foundations of MitM with TLS. And Akendo has also joined our organization team -- welcome!
+The next Security Night will feature three speakers:
 
-A big thanks to SysEleven and especially to Kenny and Joseph for providing location, food and drinks for the night. Their space for talks is great and they hosted a series of really interesting tech meetups.
+We'll have with something something Windows Server. After a short break, we'll continue with Sebastian Neef about some SSH  Fingerprint and how to handle them more effective. After another break, we will conclude the evening
+with Henrik, who is going to tell us about hashing. What's why it matters and why the hell it is everywhere! Afterward, you're free to enjoy a tour through the c-base. 
+
+Looking forward to seeing you around!

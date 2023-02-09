@@ -3,29 +3,23 @@
 1:
   name: "pspacecomplete"
   job: "Security Architect at New Work"
-  talk:
-    title: "Something Something hashes"
-    abstract: ""
-  state:
-    comment: ""
-    accepted: true
+  title: "Something Something hashes"
+  abstract: ""
+  comment: ""
+  accepted: true
 
 2:
   name: "Sven"
   job: ""
-  talk:
-    title: "Soemthing Somethin Windows Server hacking"
-    abstract: ""
-  state:
-    comment: "prueft Kalender und sagt ggf. ab"
-    accepted: true
+  title: "Soemthing Somethin Windows Server hacking"
+  abstract: ""
+  comment: "prueft Kalender und sagt ggf. ab"
+  accepted: true
 
 3:
   name: "Neef"
   job: ""
-  talk:
-    title: "Somethin Somethin SSHFP"
-    abstract: ""
-  state:
-    comment: ""
-    accepted: false
+  title: "Somethin Somethin SSHFP"
+  abstract: ""
+  comment: ""
+  accepted: false

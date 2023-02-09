@@ -1,8 +1,8 @@
 # event metadata
 
+topic: ""
 time: "2023-03-02T19:00:00+01:00"
 duration: "120"
-topic: ""
 meetup_url: ""
 space:
   name: "c-base"

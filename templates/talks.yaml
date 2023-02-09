@@ -3,29 +3,23 @@
 1:
   name: ""
   job: ""
-  talk:
-    title: ""
-    abstract: ""
-  state:
-    comment: ""
-    accepted: false
+  title: ""
+  abstract: ""
+  comment: ""
+  accepted: false
 
 2:
   name: ""
   job: ""
-  talk:
-    title: ""
-    abstract: ""
-  state:
-    comment: ""
-    accepted: false
+  title: ""
+  abstract: ""
+  comment: ""
+  accepted: false
 
 3:
   name: ""
   job: ""
-  talk:
-    title: ""
-    abstract: ""
-  state:
-    comment: ""
-    accepted: false
+  title: ""
+  abstract: ""
+  comment: ""
+  accepted: false

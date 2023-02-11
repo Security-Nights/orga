@@ -10,10 +10,10 @@
   accepted: true
 
 2:
-  name: "Neef"
+  name: "Sebastian Neef (@gehaxelt)"
   job: ""
-  title: "Somethin Somethin SSHFP"
-  abstract: "[ABSTRACT]"
+  title: "Oh SSH-it, I didn't know about SSHFP RRs in the DNS!"
+  abstract: "Are you annoyed of \"the authenticity of host '...' can't be established\" messages and \"Are you sure you want to continue connecting (yes/no/[fingerprint])?\" prompts shown by SSH when connecting to unknown hosts? Are you skipping these checks or taking your time to verify these properly? In this talk, Sebastian will show you a possible solution that uses SSHFP RR in the DNS to automatically verify SSH host key fingerprints. Further, he'll show the results of an analysis of over 500 million domains."
   duration: 30 # minutes
   comment: ""
-  accepted: false
+  accepted: true

@@ -34,14 +34,14 @@ def gen_text(talks, space, time_start, duration, tldr, invitation, meetup_url, c
     text += ' Our agenda for this Night:\n\n'
     time_current = time_start
     text += time_current.strftime('%I:%M %p') + ' -- Welcome\n'
-    time_current += timedelta(minutes = 10)
+    time_current += timedelta(minutes = duration['intro'])
     for talk_id in list(talks):
         text += time_current.strftime('%I:%M %p') + ' -- ' + talks[talk_id]['name'] + '\'s talk\n'
         time_current += timedelta(minutes = talks[talk_id]['duration'])
         if talk_id < len(list(talks)):
-            time_current += timedelta(minutes = 10)
+            time_current += timedelta(minutes = duration['break'])
     text += time_current.strftime('%I:%M %p') + ' -- Networking\n'
-    time_current = time_start + timedelta(minutes = duration)
+    time_current = time_start + timedelta(minutes = duration['total'])
     text += time_current.strftime('%I:%M %p') + ' -- Closing\n\n'
     text += 'Attendance is free. Emergency phone number, in case of any problems: ' + ', '.join(contacts) + '.'
     text += ' Please register at Meetup, so we can plan accordingly: ' + meetup_url + '\n\n'
@@ -124,7 +124,7 @@ def gen_cal_event(id, topic, space, time, duration, url, text):
     event.add('SUMMARY', 'Security Night ' + id + ': ' + topic)
     event.add('LOCATION', space['name'] + ', ' + space['address'])
     event.add('DTSTART', time)
-    event.add('DTEND', time + timedelta(minutes = duration))
+    event.add('DTEND', time + timedelta(minutes = duration['total']))
     event.add('URL', url)
     event.add('DESCRIPTION', text)
     calendar.add_component(event)

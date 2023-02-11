@@ -21,7 +21,7 @@ def gen_text(talks, space, time_start, duration, tldr, invitation, meetup_url, c
     text = 'Dear Berlin Security Community,\n\n'
     text += 'TL;DR | ' + tldr + '\n\n'
     text += '--> WHAT TO EXPECT\n\n'
-    text += invitation + '\n\n'
+    text += invitation + '\n'
     text += '--> THE TALKS\n\n'
     for talk_id in list(talks):
         text += '(' + str(talk_id) + ') "' + talks[talk_id]['title'] + '"'
@@ -37,7 +37,7 @@ def gen_text(talks, space, time_start, duration, tldr, invitation, meetup_url, c
     time_current += timedelta(minutes = 10)
     for talk_id in list(talks):
         text += time_current.strftime('%I:%M %p') + ' -- ' + talks[talk_id]['name'] + '\'s talk\n'
-        time_current += timedelta(minutes = 20)
+        time_current += timedelta(minutes = talks[talk_id]['duration'])
         if talk_id < len(list(talks)):
             time_current += timedelta(minutes = 10)
     text += time_current.strftime('%I:%M %p') + ' -- Networking\n'

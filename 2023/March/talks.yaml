@@ -5,21 +5,15 @@
   job: "Staff Security Engineer at New Work"
   title: "Hashing - what's not to be confused about?"
   abstract: "In theory hashing is very simple: take an input of arbitrary length and map it to an output of fixed length, and you are done. It can be used to solve a bunch of relevant problems - and that's where the trouble starts. One needs to think of use cases, security concerns, runtimes and all the other fluff that makes life hard and sad.\nThis short talk intends to shed light on relevant use cases, describe important security considerations, and give you some pointers what to look out for in your next code review/project/bug bounty/etc."
+  duration: 30 # minutes
   comment: ""
   accepted: true
 
 2:
-  name: "Sven"
-  job: ""
-  title: "Soemthing Somethin Windows Server hacking"
-  abstract: "[ABSTRACT]"
-  comment: "prueft Kalender und sagt ggf. ab"
-  accepted: true
-
-3:
   name: "Neef"
   job: ""
   title: "Somethin Somethin SSHFP"
   abstract: "[ABSTRACT]"
+  duration: 30 # minutes
   comment: ""
   accepted: false

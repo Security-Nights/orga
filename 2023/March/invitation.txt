@@ -5,4 +5,3 @@ Please be aware of this and do not run blindly to the last place. But we're goin
 Frist, we'll have Sven with something something Windows Server. After a short break, we'll continue on with Sebastian Neef, who will elaborate on SSH  Fingerprint and how to handle them more effective. After another break, we will conclude the evening with Henrik, who is going to tell us about hashing. What's why it matters and why the hell it is everywhere! Afterward, you're free to enjoy a tour through the c-base. 
 
 Looking forward to seeing you around. 
-

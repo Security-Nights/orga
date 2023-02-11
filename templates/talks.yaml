@@ -5,6 +5,7 @@
   job: ""
   title: ""
   abstract: ""
+  duration: 20 # minutes
   comment: ""
   accepted: false
 
@@ -13,6 +14,7 @@
   job: ""
   title: ""
   abstract: ""
+  duration: 20 # minutes
   comment: ""
   accepted: false
 
@@ -21,5 +23,6 @@
   job: ""
   title: ""
   abstract: ""
+  duration: 20 # minutes
   comment: ""
   accepted: false

@@ -1,0 +1,51 @@
+Dear Berlin Security Community,
+
+TL;DR | Join our next Security Night conference on March 2 from 7 PM UTC+01:00 at c-base: Rungestr. 20, 10179 Berlin. The following speakers are ready to share their insights with you:
+
+1. "Hashing - what's not to be confused about?" by Hendrik Spiegel
+2. "Somethin Somethin SSHFP" by Neef
+
+--> WHAT TO EXPECT
+
+First even in 2023. With some delay, we're excited to announce the next Security Night. On the 2nd of March 2023. WE have a new location: c-base! 
+
+Please be aware of this and do not run blindly to the last place. But we're going to stick to the usual format. The next Security Night will feature three speakers:
+
+Frist, we'll have Sven with something something Windows Server. After a short break, we'll continue on with Sebastian Neef, who will elaborate on SSH  Fingerprint and how to handle them more effective. After another break, we will conclude the evening with Henrik, who is going to tell us about hashing. What's why it matters and why the hell it is everywhere! Afterward, you're free to enjoy a tour through the c-base. 
+
+Looking forward to seeing you around. 
+
+--> THE TALKS
+
+(1) "Hashing - what's not to be confused about?" by Hendrik Spiegel:
+In theory hashing is very simple: take an input of arbitrary length and map it to an output of fixed length, and you are done. It can be used to solve a bunch of relevant problems - and that's where the trouble starts. One needs to think of use cases, security concerns, runtimes and all the other fluff that makes life hard and sad.
+This short talk intends to shed light on relevant use cases, describe important security considerations, and give you some pointers what to look out for in your next code review/project/bug bounty/etc.
+
+(2) "Somethin Somethin SSHFP" by Neef:
+[ABSTRACT]
+
+--> THE NIGHT
+
+We are happy to invite you to our next Security Night conference on March 2 at c-base: Rungestr. 20, 10179 Berlin (https://openstreetmap.org/node/260050809). Our agenda for this Night:
+
+07:00 PM -- Welcome
+07:10 PM -- Hendrik Spiegel's talk
+07:50 PM -- Neef's talk
+08:20 PM -- Networking
+09:00 PM -- Closing
+
+Attendance is free. Emergency phone number, in case of any problems: +4917634326568. Please register at Meetup, so we can plan accordingly: [MEETUP_URL]
+
+--> CONTACT US
+
+Berlin Security Nights are organized by Akendo, Hendrik and Martin as a contribution to the scene. We like bringing great people together. You can find us offline at our Nights or online on Slack: https://join.slack.com/t/berlin-infosec/shared_invite/enQtNTY3ODU0OTU5NjcwLTAzMmZiNDQxNDk0NzE4NGJjOTE0ODJiOWRkMGY2Y2QwZTUxYzgzYTVlMGQ3YTllNjQ0YjFiNzVlYjZiMWU2MWY
+
+See you around!
+
+Your Security Night Owls,
+Akendo, Hendrik, Martin
+
+PS: We are always looking for interesting talks and projects. If you have a talk proposal, an interesting project or something you would love to share with the community, please write us an email or reach out on Slack.
+
+-- 
+To unsubscribe from the mailing list, please reply to this email with "unsubscribe" in the subject or just as the message body.

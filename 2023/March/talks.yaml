@@ -17,3 +17,13 @@
   duration: 30 # minutes
   comment: ""
   accepted: true
+
+3:
+  name: "Antonio Mello"
+  job: ""
+  title: "A GraphQL tale: What else is in there besides introspection?" 
+  abstract: "Finding and extracting GraphQL endpoints / queries / mutations / data types (partially) without relying on introspection or fuzzing, from publicly available javascript files."
+  duration: 30 # minutes
+  comment: "https://0x00sec.org/t/a-graphql-tale-what-else-is-in-there-besides-introspection/31180"
+  accepted: true
+

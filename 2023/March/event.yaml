@@ -1,12 +1,12 @@
 # event metadata
 
-topic: "[TOPIC]"
+topic: "Hashing; SSHFP RRs; GraphQL"
 time: "2023-03-02T19:00:00+01:00"
 duration:
   intro: 10 # minutes
   break: 10 # minutes
   total: 120 # minutes
-meetup_url: "[MEETUP_URL]"
+meetup_url: "https://www.meetup.com/berlin-internet-security-group/events/291603283"
 space:
   name: "c-base"
   address: "Rungestr. 20, 10179 Berlin"

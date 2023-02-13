@@ -1,12 +1,11 @@
-With some delay, we're excited to announce our next Security Night on the 2nd of March 2023! 
+With some delay, we're excited to announce our next Security Night on the 2nd of March 2023!
 
-
-We will host this Security Night at a new location: the famous c-base!  
+We will host this Security Night at a new location: the famous c-base!
 Please be aware of this and do not go to the previous location :-)
 
 However, we're going to stick to the usual format (one change at a time is easier to debug). This means we're going to have presentations, beer, and time to socialize!
 
-This Security Night will feature three speakers:  
-First, we'll have Hendrik Spiegel, who will tell us about hashing and use-cases you might want to consider. After a short break, we'll continue on with Sebastian Neef, who will elaborate on SSH Fingerprints and how to handle them more effective using DNS. After another break, we will conclude the evening with Antonio Mello, who is going to teach us about leaking various resources from GraphQL. What why it matters and why the hell it is everywhere! Afterward, you're free to enjoy a tour through the c-base.  
+This Security Night will feature three speakers:
+First, we'll have Hendrik Spiegel, who will tell us about hashing and use-cases you might want to consider. After a short break, we'll continue on with Sebastian Neef, who will elaborate on SSH Fingerprints and how to handle them more effective using DNS. After another break, we will conclude the evening with Antonio Mello, who is going to teach us about leaking various resources from GraphQL. What why it matters and why the hell it is everywhere! Afterward, you're free to enjoy a tour through the c-base.
 
-Looking forward to seeing you around. 
+Looking forward to seeing you around.

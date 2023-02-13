@@ -5,7 +5,7 @@
   job: "Staff Security Engineer at New Work"
   title: "Hashing - what's not to be confused about?"
   abstract: "In theory hashing is very simple: take an input of arbitrary length and map it to an output of fixed length, and you are done. It can be used to solve a bunch of relevant problems - and that's where the trouble starts. One needs to think of use cases, security concerns, runtimes and all the other fluff that makes life hard and sad.\nThis short talk intends to shed light on relevant use cases, describe important security considerations, and give you some pointers what to look out for in your next code review/project/bug bounty/etc."
-  duration: 30 # minutes
+  duration: 20 # minutes
   comment: ""
   accepted: true
 
@@ -14,7 +14,7 @@
   job: ""
   title: "Oh SSH-it, I didn't know about SSHFP RRs in the DNS!"
   abstract: "Are you annoyed of \"the authenticity of host '...' can't be established\" messages and \"Are you sure you want to continue connecting (yes/no/[fingerprint])?\" prompts shown by SSH when connecting to unknown hosts? Are you skipping these checks or taking your time to verify these properly? In this talk, Sebastian will show you a possible solution that uses SSHFP RR in the DNS to automatically verify SSH host key fingerprints. Further, he'll show the results of an analysis of over 500 million domains."
-  duration: 30 # minutes
+  duration: 20 # minutes
   comment: ""
   accepted: true
 
@@ -23,7 +23,7 @@
   job: ""
   title: "A GraphQL tale: What else is in there besides introspection?" 
   abstract: "Finding and extracting GraphQL endpoints / queries / mutations / data types (partially) without relying on introspection or fuzzing, from publicly available javascript files."
-  duration: 30 # minutes
+  duration: 20 # minutes
   comment: "https://0x00sec.org/t/a-graphql-tale-what-else-is-in-there-besides-introspection/31180"
   accepted: true
 

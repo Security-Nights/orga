@@ -3,7 +3,7 @@
 topic: "[TOPIC]"
 time: "2023-03-02T19:00:00+01:00"
 duration:
-  intro: 15 # minutes
+  intro: 10 # minutes
   break: 10 # minutes
   total: 120 # minutes
 meetup_url: "[MEETUP_URL]"

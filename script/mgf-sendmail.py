@@ -28,7 +28,7 @@ def gen_text(talks, space, time_start, duration, tldr, invitation, meetup_url, c
         text += ' by ' + talks[talk_id]['name'] + ':\n'
         text += talks[talk_id]['abstract'] + '\n\n'
     text += '--> THE NIGHT\n\n'
-    text += 'We are happy to invite you to our next Security Night conference'
+    text += 'We are happy to invite you to our next Security Night'
     text += ' on ' + time_start.strftime('%B %-d')
     text += ' at ' + space['name'] + ': ' + space['address'] + ' (' + space['map_url'] + ').'
     text += ' Our agenda for this Night:\n\n'
@@ -75,7 +75,7 @@ def get_input_data():
     event['time'] = datetime.strptime(event['time'], '%Y-%m-%dT%H:%M:%S%z')
     with open(file_talks) as f:
         event['talks'] = safe_load(f)
-    event['tldr'] = 'Join our next Security Night conference'
+    event['tldr'] = 'Join our next Security Night'
     event['tldr'] += ' on ' + event['time'].strftime('%B %-d from %-I %p %Z')
     event['tldr'] += ' at ' + event['space']['name'] + ': ' + event['space']['address'] + '.'
     event['tldr'] += ' The following speakers are ready to share their insights with you:\n'
